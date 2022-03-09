@@ -2,6 +2,9 @@ body{
    background-color:#C3DBD9;
    font-family: Arial;
    color: white;
+   margin-left: 45px;
+   margin-right: 45px;
+   font-weight: bold;
 
 
  }
@@ -14,7 +17,4 @@ body{
 }
 h1,h2,h3,h4,h5,h6{
   Color: #E45826;
-}
-p{
-  font-weight: bold;
 }
